@@ -5,14 +5,14 @@
             background: purple;
             border-radius: 5px;
             margin: 0px;
-            font-size:5em;
+            font-size:5.5em;
             font-style: italic;
             color:white;
             border:1px solid black;
         }
             main>aside:first-child{
                 width:24.8%;
-                height:1000px;
+                height:600px;
                 float:left;
                 }
                 main>aside:first-child>ul>li>a{
@@ -21,7 +21,7 @@
                     border-radius: 4px;
                     margin:4px;
                     background:skyblue;
-                    font-size:1.5em;
+                    font-size:2em;
                     color:white;  
                     float:left;
                 }
@@ -38,30 +38,30 @@
                 float:left;
             }
             main> section>h2{
-                font-size: 2em;
+                font-size: 2.5em;
                 margin:10px; 
                 text-align: center;
                 float: left;
             }
             main>section>p{
-                font-size: 16px;
+                font-size: 20px;
                 margin:10px;
                 float: left;
             }
             main>aside:last-child{
                 width:24.8%;
-                height:1000px;
+                height:600px;
                 float:left;
                 background: skyblue;
                 border-radius: 5px;
             }
             main> aside:last-child>h2{
-                font-size: 2em;
+                font-size: 2.5em;
                 color: whitesmoke;
                 text-align: center !important;
             }
             main>aside:last-child>p{
-                font-size: 16px;
+                font-size:20px;
                 color:whitesmoke;
                 padding:  20px 20px;
                 margin:10px;
